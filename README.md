@@ -1,3 +1,3 @@
 # module_b
 
-module v2
+module v3
